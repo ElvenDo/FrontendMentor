@@ -1,0 +1,32 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body{
+    background-color: lightblue;
+}
+
+.cadre{
+    margin: auto;
+    margin-top: 100px;
+    background-color: white;
+    padding: 1em;
+    width: 306px;
+    height: 480px;
+    text-align: center;
+    border-radius: 5%;
+}
+
+#qrcode{
+    width: 300px;
+    height: 300px;
+    border-radius: 5%;
+}
+.skills{
+    font-weight: bold;
+    font-size: x-large;
+    margin: 20px;
+}
+.descritpion{
+    color: gray;
+    margin: 10%;    
+}
